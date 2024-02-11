@@ -1,0 +1,17 @@
+fieldset {
+    background-color: rgb(117, 245, 117);
+    color:brown
+}
+button{
+    background-color: aqua;
+    color:blueviolet
+}
+h1 {
+    color:blue
+}
+input{
+    align-items: center;
+}
+#above{
+    align-items: start;
+}
